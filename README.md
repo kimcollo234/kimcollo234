@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Collins Kiptoo
 - 👀 I’m interested in exploring how github will assist me through my life time
 - 🌱 I’m currently learning Bachelors of Computer Science
-- 💞️ I’m looking to collaborate on the privancy Policies
+- 💞️ I’m a Fullstack Software engineer both ends.
 - 📫 you can reach me through  Collinskiptoo259@gmail.com  or  +254725280289
 
 <!---
